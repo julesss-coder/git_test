@@ -1,0 +1,1 @@
+Das ist Julias erstes Git-Projekt!
